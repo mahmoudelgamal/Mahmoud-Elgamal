@@ -19,8 +19,49 @@
 <hr/>
 
 <h4><a href="#">BoxStore</a></h4>
-<p>It’s an online platform for print T-shirts I convert the PSD imagination to real project.</p>
+<p>It’s an online platform for print T-shirts I convert the PSD imagination by using variety markup languages to real website.</p>
 <p>I used <b>[HTML5, CSS3, BOOTSTRAP, JS, and JQUERY]</b></p>
 
+<h4><a href="#">Golden Axis</a></h4>
+<p>It’s a landing page for event Creators company located in Saudia Arabia.</p>
+<p>I used <b>[HTML5, CSS3, BOOTSTRAP, JS, JQUERY, and Sass]</b></p>
+	 
+<h4><a href="#">Tech Store</a></h4>
+<p>It’s an e-commerce for selling tech goods I used context API for managing state and contintful for storing the data.</p>
+<p>I used <b>[HTML5, CSS3, BOOTSTRAP, React, ES6, React-icon and styled component]</b></p>
 
+<h4><a href="#">BoxStore</a></h4>
+<p>It’s an online platform for print T-shirts I convert the PSD imagination by using variety markup languages to real website.</p>
+<p>I used <b>[HTML5, CSS3, BOOTSTRAP, JS, and JQUERY]</b></p>
 
+<h4><a href="#">Alalawi institution </a></h4>
+<p>It’s an online platform for a private institution in Oman.</p>
+<p>I used <b> [HTML5, CSS3, BOOTSTRAP, JS, JQUERY, and Sass]</b></p>
+
+<h4><a href="#">9Teachers </a></h4>
+<p>All around Quran system is a platform to learn Quran and Arabic. I translated design team’s UX wireframes and mock-ups into responsive, interactive.</p>
+<p>I used <b>[HTML5, CSS3, BOOTSTRAP, JS, and JQUERY]</b></p>
+
+<h4><a href="#">Forkify</a></h4>
+<p>It’s an online engine for searching between one hundred and thousands of food recipes I used FOOD2FORK to build this engine (its real API).</p>
+<p>I used <b>[HTML5, CSS3, vanilla JS, ES6, AJAX, Axios, WebPack, Babel]</b></p>
+
+<h4><a href="#">Pixel Art Maker</a></h4>
+<p>It was a challenge for an internship the challenge is to make pixel art maker (Pixel art is a form of digital art) you can first dictate the size of your canvas and then u can easily use your mouse by just dragging and draw whatever you want I used a lot of JS events to make it easy to the user. </p>
+<p>I used <b>[HTML5, CSS3, vanilla JS]</b></p>
+
+<h4><a href="#">Twitter-like App</a></h4>
+<p>It was a simulation for twitter tweet part from my Udacity React Nano degree so you can tweet a new tweet replay for a tweet track the original tweet like and comment for a tweet, and I made a decrement counter for warning the user while he writing a new tweet to be aware with the remind letter as a smoothly UX.</p>
+<p>I used <b>[HTML5, CSS3, ReactJS, Redux, Redux-thunk, React-icons]</b></p>
+
+<h4><a href="#">Alazhar Electronic Gate </a></h4>
+<p>It’s a landing page for browsing the books of the computer science department in AZ University.</p>
+<p>I used <b>[HTML5, CSS3]</b></p>
+
+<h4><a href="#">NEXTER</a></h4>
+<p>It’s an online platform for print T-shirts I convert the PSD imagination by using variety markup languages to real website.</p>
+<p>I used <b>[HTML5, CSS3, CSSGrid]</b></p>
+
+<h4><a href="#">TRILLO</a></h4>
+<p>It’s an online platform for print T-shirts I convert the PSD imagination by using variety markup languages to real website.</p>
+<p>I used <b>[HTML5, CSS3, FlexBox]</b></p>
