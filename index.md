@@ -23,7 +23,7 @@
 <p>It’s an online platform for print T-shirts I convert the PSD imagination by using variety markup languages to real website.</p>
 <p>I used <b>[HTML5, CSS3, BOOTSTRAP, JS, and JQUERY]</b></p>
 
-<hr style="color:"#ddd"; height="1px"/>
+<hr style="color:"#ddd"; height="1px""/>
 
 <h3><a href="https://gold-axis.netlify.com/">Golden Axis</a></h3>
 <p>It’s a landing page for event Creators company located in Saudia Arabia.</p>
