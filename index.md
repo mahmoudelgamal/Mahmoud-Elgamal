@@ -11,9 +11,9 @@
 <h2 style="">My Technology Stack:</h2>
 <hy/>
 <ul>
-  <li>Responsive Mobile first web design using, <b>HTML5, CSS3 (with practical experience using CSS Grid and CSS Flexbox)</b> </li>
-  <li>Building scalable frontend projects using<b> SASS</b> (CSS preprocessor), <b>Styled Component</b> and responsive frameworks         <b>Bootstrap4</b>. </li>
-  <li>Writing <b>Clean JavaScript Code</b> (with practical experience working with <b>JS DOM</b>, using <b>ES6</b> specs code and working with <b>AJAX/JSON</b>) </li>
-  <li>Using JS libraries and Tools like <b>(React JS, Redux, Context API, JQuery, Babel, Webpack, and Pug.JS)</b></li>
+  <p>Responsive Mobile first web design using, <b>HTML5, CSS3 (with practical experience using CSS Grid and CSS Flexbox)</b> </p>
+  <p>Building scalable frontend projects using<b> SASS</b> (CSS preprocessor), <b>Styled Component</b> and responsive frameworks         <b>Bootstrap4</b>. </p>
+  <p>Writing <b>Clean JavaScript Code</b> (with practical experience working with <b>JS DOM</b>, using <b>ES6</b> specs code and working with <b>AJAX/JSON</b>) </p>
+  <p>Using JS libraries and Tools like <b>(React JS, Redux, Context API, JQuery, Babel, Webpack, and Pug.JS)</b></p>
 </ul>
 
