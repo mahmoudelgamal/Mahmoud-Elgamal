@@ -1,9 +1,19 @@
 <h1>Mahmoud Helal Elgamal</h1>
 <p>Naser City, Cairo</p>
 <a href="tel:+201011648279">(+20) 10 11648279 </a>
-<p><span>E-mail: </span> <a href="mailto:elgamal.mem@gmail.com">elgamal.mem@gmail.com</a></p>
-<p><span>Linkend in: </span> <a href="https://www.linkedin.com/in/mahmoudelgamal96">https://www.linkedin.com/in/mahmoudelgamal96</a>
+<p><a href="mailto:elgamal.mem@gmail.com">elgamal.mem@gmail.com</a></p>
+<p><a href="https://www.linkedin.com/in/mahmoudelgamal96">https://www.linkedin.com/in/mahmoudelgamal96</a>
 
+<h2 style="">Summary</h2>
+<hy/>
+<p>I am an enthusiast “Front-end web developer”, with hands-on experience in backend development using node.js and express.js. I always thrive to follow front-end web development best practices, while not only focusing on producing clean code but also with Performance optimization, SEO, Security in mind. Also, I love experimenting new and different technologies and achieving consistent UX throw different browsers and devices. I am eager to work with a team so I can share knowledge, experience and collaborating to achieve world-changing while optimizing the learning curve for me and my colleagues.</p>
 
-
+<h2 style="">My Technology Stack:</h2>
+<hy/>
+<ul>
+  <li>Responsive Mobile first web design using, <b>HTML5, CSS3 (with practical experience using CSS Grid and CSS Flexbox)</b> </li>
+  <li>Building scalable frontend projects using<b> SASS</b> (CSS preprocessor), <b>Styled Component</b> and responsive frameworks         <b>Bootstrap4/b>. </li>
+  <li>Writing <b>Clean JavaScript Code</b> (with practical experience working with <b>JS DOM</b>, using <b>ES6</b> specs code and working with <b>AJAX/JSON</b>) </li>
+  <li>Using JS libraries and Tools like <b>(React JS, Redux, Context API, JQuery, Babel, Webpack, and Pug.JS)</b></li>
+</ul>
 
